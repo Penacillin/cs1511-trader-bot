@@ -53,7 +53,8 @@ Hyejeong and Seolhyun working hard together to sell sandwiches
 Now Seolhyun is performing decently solo, in medium worlds at least. Usually getting 150-700% profit. But now she has to properly get ready to take on the multi bot world properly.
 
 
-![omg](doc/omg.jpg)
+<img src="doc/omg.jpg" alt="omg" style="width:75%">
+
 Seolhyun watching her profits grow
 
 So far Seolhyun has had the peace and joy of frolicking about by herself with the whole world in her hands. She's only needed a set of functions to analyze the world and few other utilities to be able to make her decision. But when there're others lurking around, sometimes they can be big meanies and steal from Seolhyunchin 'o'). This means Seolhyun will need to somehow learn to dump when needed, and even better, to avoid situations where dumping/unnecessary moving/buying/selling even happens :o. For this she needs a buddy. But oooo! Just in time, guess who shows up, Who better than Shin Hyejeong :D. Hyejeong gives ideas as to how Seolhyun can better take on the multi bot world.
@@ -115,8 +116,8 @@ Silly girl, she was subtracting weight from volume. Tsk, had to give her a virtu
 
 Anyways, after getting this quantity, multiplying it by the difference in buyer and seller price gave the gross profit that can be made by making a trade between them. After this, the average cost of fuel is used to apply a penalty to the score based on how far the buyer is from the seller.
 
+<img src="doc/sad.jpg" alt="sad" style="width:75%">
 
-![sad](doc/sad.jpg)
 Seolhyun's face after she realized she made a boo boo
 
 
@@ -124,10 +125,12 @@ Seolhyun's face after she realized she made a boo boo
 Before starting on improving Seolhyun, Seolhyun needs to be more transparent what she's doing. Because of this, I improved the logging on Seolhyun so that I could properly observe each of her decisions and the reason for them, then I would have somewhere to go from to improve her.
 
 The output Seolhyun gives looks like:
-![output1](doc/output1.png)
-![output2](doc/output2.png)
- 
-![thatsme](doc/thatsme.jpg)
+
+<img src="doc/output1.png" alt="output1" style="width:45%">
+<img src="doc/output2.png" alt="output1" style="width:45%">
+
+<img src="doc/thatsme.jpg" alt="thatsme" style="width:70%">
+
 Seolhyun speaking up
 
 # Seolhyun gets her pretty head working to stop being indecisive
